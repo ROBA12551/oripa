@@ -1,93 +1,23 @@
-
 [
   {
-    "id": "prize-001",
-    "name": "プレミアムゴールドウォッチ",
-    "rank": "S",
-    "imageUrl": "https://example.com/images/premium-gold-watch.jpg",
-    "description": "24金を使用した高級腕時計",
-    "stock": 1,
-    "value": 500000
+    "id": "prod_001",
+    "name": "iPhone 15 Pro",
+    "price": 1,
+    "condition": "new",
+    "quantity": 5,
+    "date": "2023-10-15",
+    "image": "iphone15pro.jpg",
+    "description": "最新モデル iPhone 15 Pro 256GB",
+    "category": "smartphone"
   },
   {
-    "id": "prize-002",
-    "name": "最新ゲーム機",
-    "rank": "A",
-    "imageUrl": "https://example.com/images/game-console.jpg",
-    "description": "最新モデルのゲーム機",
-    "stock": 3,
-    "value": 50000
-  },
-  {
-    "id": "prize-003",
-    "name": "高級ヘッドホン",
-    "rank": "A",
-    "imageUrl": "https://example.com/images/premium-headphones.jpg",
-    "description": "ノイズキャンセリング機能搭載",
-    "stock": 5,
-    "value": 40000
-  },
-  {
-    "id": "prize-004",
-    "name": "人気アーティストのサイン入りCD",
-    "rank": "B",
-    "imageUrl": "https://example.com/images/signed-cd.jpg",
-    "description": "限定版サイン入りCD",
-    "stock": 10,
-    "value": 15000
-  },
-  {
-    "id": "prize-005",
-    "name": "スターバックスギフトカード",
-    "rank": "C",
-    "imageUrl": "https://example.com/images/starbucks-card.jpg",
-    "description": "5,000円分のギフトカード",
-    "stock": 20,
-    "value": 5000
-  },
-  {
-    "id": "prize-006",
-    "name": "映画鑑賞券",
-    "rank": "D",
-    "imageUrl": "https://example.com/images/movie-ticket.jpg",
-    "description": "全国主要映画館で使用可能",
-    "stock": 30,
-    "value": 2000
-  },
-  {
-    "id": "prize-007",
-    "name": "オリジナルステッカーセット",
-    "rank": "E",
-    "imageUrl": "https://example.com/images/sticker-set.jpg",
-    "description": "限定デザインのステッカー",
-    "stock": 31,
-    "value": 500
-  },
-  {
-    "id": "prize-008",
-    "name": "ダイヤモンドネックレス",
-    "rank": "S",
-    "imageUrl": "https://example.com/images/diamond-necklace.jpg",
-    "description": "0.5カラットのダイヤ使用",
-    "stock": 1,
-    "value": 300000
-  },
-  {
-    "id": "prize-009",
-    "name": "高級レストラン食事券",
-    "rank": "B",
-    "imageUrl": "https://example.com/images/restaurant-voucher.jpg",
-    "description": "人気レストランのコース料理",
-    "stock": 8,
-    "value": 10000
-  },
-  {
-    "id": "prize-010",
-    "name": "人気漫画セット",
-    "rank": "D",
-    "imageUrl": "https://example.com/images/manga-set.jpg",
-    "description": "全巻セット",
-    "stock": 15,
-    "value": 1500
+    "id": "prod_002",
+    "name": "Galaxy S23 Ultra",
+    "price": 1,
+    "condition": "new",
+    "quantity": 3,
+    "date": "2023-09-20",
+    "image": "galaxy_s23ultra.jpg",
+    "description": "Samsung Galaxy S23 Ultra 512GB",
+    "category": "smartphone"
   }
-]
