@@ -4,14 +4,9 @@
       "id": "p001",
       "name": "ゲーミングマウス GX-Pro",
       "price": 4980,
-      "quantity": 1
-    },
-    {
-      "id": "p004",
-      "name": "ゲーミングキーボード RGB",
-      "price": 7980,
-      "quantity": 1
+      "condition": "new",
+      "quantity": 12,
+      "image": "mouse_gxpro.jpg"
     }
   ]
-
 }
