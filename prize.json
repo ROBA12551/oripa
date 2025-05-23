@@ -1,8 +1,8 @@
 [
   {
     "id": "prod_001",
-    "name": "商品名",
-    "price": 1000,
+    "name": "日野揚翔",
+    "price": 300,
     "quantity": 10,
     "condition": "new",
     "image": "image.jpg"
