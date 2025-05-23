@@ -1,31 +1,17 @@
-[
-  {
-    "id": "p001",
-    "name": "ゲーミングマウス GX-Pro",
-    "price": 4980,
-    "condition": "new",
-    "quantity": 12,
-    "image": "mouse_gxpro.jpg"
-  },
-  {
-    "id": "p002",
-    "name": "27インチ 4K モニター",
-    "price": 29800,
-    "condition": "used",
-    "quantity": 3,
-    "image": "monitor_27inch_4k.jpg"
-  },
-  {
-    "id": "p003",
-    "name": "Bluetooth ヘッドホン",
-    "price": null,
-    "condition": "junk",
-    "image": "headphones_bt.jpg"
-  },
-  {
-    "id": "p004",
-    "name": "ゲーミングキーボード RGB",
-    "price": 7980,
-    "quantity": 8
-  }
-]
+{
+  "products": [
+    {
+      "id": "p001",
+      "name": "ゲーミングマウス GX-Pro",
+      "price": 4980,
+      "quantity": 1
+    },
+    {
+      "id": "p004",
+      "name": "ゲーミングキーボード RGB",
+      "price": 7980,
+      "quantity": 1
+    }
+  ]
+
+}
