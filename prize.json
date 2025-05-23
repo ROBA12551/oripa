@@ -3,10 +3,50 @@
     {
       "id": "p001",
       "name": "ゲーミングマウス GX-Pro",
-      "price": 4980,
+      "price": 1,
       "condition": "new",
-      "quantity": 12,
+      "quantity": 1,
       "image": "mouse_gxpro.jpg"
+    },
+    {
+      "id": "p002",
+      "name": "高性能ゲーミングキーボード KX-Master",
+      "price": 1,
+      "condition": "used",
+      "quantity": 1,
+      "image": "keyboard_kxmaster.jpg"
+    },
+    {
+      "id": "p003",
+      "name": "27インチ ゲーミングモニター ZB-27FHD",
+      "price": 1,
+      "condition": "new",
+      "quantity": 1,
+      "image": "monitor_zb27.jpg"
+    },
+    {
+      "id": "p004",
+      "name": "ハイエンドゲーミングチェア GX-Prime",
+      "price": 1,
+      "condition": "junk",
+      "quantity": 1,
+      "image": "chair_gxprime.jpg"
+    },
+    {
+      "id": "p005",
+      "name": "RGB ゲーミングマット 90cm",
+      "price": null,
+      "condition": "used",
+      "quantity": 1,
+      "image": "mousepad_rgb90.jpg"
+    },
+    {
+      "id": "p006",
+      "name": "ゲーミングヘッドセット X99-Pro",
+      "price": 1,
+      "condition": "new",
+      "quantity": 1,
+      "image": "headset_x99pro.jpg"
     }
   ]
 }
