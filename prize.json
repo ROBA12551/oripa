@@ -1,11 +1,52 @@
-[
-  {
-    "id": "prod_001",
-    "name": "日野揚翔",
-    "price": 300,
-    "quantity": 10,
-    "condition": "new",
-    "image": "images/test.jpg"
-  },
-
-]
+{
+  "products": [
+    {
+      "id": "smartphone001",
+      "name": "iPhone 15 Pro Max",
+      "brand": "Apple",
+      "price": 189800,
+      "currency": "JPY",
+      "storage": "256GB",
+      "color": "Titanium Blue",
+      "description": "最先端のA17 Proチップ搭載。チタニウム素材の軽量ボディ。",
+      "image": "https://example.com/images/iphone15promax.jpg",
+      "stock": 12
+    },
+    {
+      "id": "smartphone002",
+      "name": "Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "price": 178000,
+      "currency": "JPY",
+      "storage": "512GB",
+      "color": "Phantom Black",
+      "description": "Sペン内蔵、AIカメラ搭載の最上位モデル。",
+      "image": "https://example.com/images/galaxys24ultra.jpg",
+      "stock": 7
+    },
+    {
+      "id": "smartphone003",
+      "name": "Xperia 1 VI",
+      "brand": "Sony",
+      "price": 159800,
+      "currency": "JPY",
+      "storage": "256GB",
+      "color": "Platinum Silver",
+      "description": "シネマ品質の4K HDRディスプレイと高性能オーディオ。",
+      "image": "https://example.com/images/xperia1vi.jpg",
+      "stock": 5
+    },
+    {
+      "id": "smartphone004",
+      "name": "AQUOS R8 Pro",
+      "brand": "Sharp",
+      "price": 139800,
+      "currency": "JPY",
+      "storage": "256GB",
+      "color": "Black",
+      "description": "Leica監修カメラ搭載。国産ハイスペックスマホ。",
+      "image": "https://example.com/images/aquosr8pro.jpg",
+      "stock": 10
+    }
+  ]
+}
