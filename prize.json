@@ -1,12 +1,14 @@
 {
-  "products": [
+  "status": "success",
+  "data": [
     {
       "id": "p001",
       "name": "ゲーミングマウス GX-Pro",
       "price": 12000,
       "condition": "new",
-      "quantity": 1,
       "image": "mouse_gxpro.jpg"
     }
-  ]
+  ],
+  "count": 1,
+  "timestamp": "2025-05-23T22:30:25.818Z"
 }
