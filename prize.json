@@ -2,10 +2,10 @@
   "products": [
     {
       "id": "p001",
-      "name": "ゲーミングマウス GX-Pro",
-      "price": 12000,
+      "name": "開発テスト",
+      "price": 1,
       "condition": "new",
-      "quantity": 1,
+      "quantity": 99,
       "image": "mouse_gxpro.jpg"
     }
   ]
