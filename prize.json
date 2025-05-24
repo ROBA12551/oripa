@@ -3,7 +3,7 @@
     {
       "id": "p001",
       "name": "開発テスト",
-      "price": 1,
+      "price": 50,
       "condition": "new",
       "quantity": 99,
       "image": "mouse_gxpro.jpg"
