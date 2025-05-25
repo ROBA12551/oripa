@@ -1,12 +1,3 @@
 {
-  "products": [
-    {
-      "id": "p001",
-      "name": "開発テスト",
-      "price": 50,
-      "condition": "new",
-      "quantity": 98,
-      "image": "mouse_gxpro.jpg"
-    }
-  ]
+  "products": []
 }
