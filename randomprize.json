@@ -1,0 +1,37 @@
+[
+  {
+    "id": "item001",
+    "name": "超レアアイテム",
+    "description": "これは非常に珍しいアイテムです！",
+    "rarity": 5,
+    "value": 10000
+  },
+  {
+    "id": "item002",
+    "name": "レアアイテム",
+    "description": "これは珍しいアイテムです！",
+    "rarity": 4,
+    "value": 5000
+  },
+  {
+    "id": "item003",
+    "name": "普通のアイテム",
+    "description": "これは普通のアイテムです",
+    "rarity": 3,
+    "value": 1000
+  },
+  {
+    "id": "item004",
+    "name": "ありがちなアイテム",
+    "description": "これはよくあるアイテムです",
+    "rarity": 2,
+    "value": 500
+  },
+  {
+    "id": "item005",
+    "name": "普通のアイテム",
+    "description": "これはごく普通のアイテムです",
+    "rarity": 1,
+    "value": 100
+  }
+]
