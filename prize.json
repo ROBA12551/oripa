@@ -2,11 +2,11 @@
   "products": [
     {
       "id": "p001",
-      "name": "開発テスト",
+      "name": "ジャンクオリパ",
       "price": 50,
       "condition": "new",
-      "quantity": 98,
-      "image": "mouse_gxpro.jpg"
+      "quantity": 1500,
+      "image": "placeholder.jpg"
     }
   ]
 }
