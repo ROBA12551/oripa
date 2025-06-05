@@ -3,9 +3,9 @@
     {
       "id": "p001",
       "name": "ジャンクオリパ",
-      "price": 50,
+      "price": 1500,
       "condition": "new",
-      "quantity": 1500,
+      "quantity": 10,
       "image": "placeholder.jpg"
     }
   ]
